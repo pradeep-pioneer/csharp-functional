@@ -1,0 +1,34 @@
+###############################################################################
+# Set default behavior to automatically normalize line endings.
+###############################################################################
+*            text=auto
+
+###############################################################################
+# Set the merge driver for project and solution files
+#
+# Merging from the command prompt will add diff markers to the files if there
+# are conflicts (Merging from VS is not affected by the settings below, in VS
+# the diff markers are never inserted). Diff markers may cause the following
+# file extensions to fail to load in VS. An alternative would be to treat
+# these files as binary and thus will always conflict and require user
+# intervention with every merge. To do so, just comment the entries below and
+# uncomment the group further below
+###############################################################################
+*.cs         diff=csharp
+*.sln        text eol=crlf merge=union
+*.csproj     text eol=crlf merge=union
+*.vbproj     text eol=crlf merge=union
+*.vcxproj    text eol=crlf merge=union
+*.vcproj     text eol=crlf merge=union
+*.dbproj     text eol=crlf merge=union
+*.fsproj     text eol=crlf merge=union
+*.lsproj     text eol=crlf merge=union
+*.wixproj    text eol=crlf merge=union
+*.modelproj  text eol=crlf merge=union
+*.sqlproj    text eol=crlf merge=union
+*.wmaproj    text eol=crlf merge=union
+
+*.xproj      text eol=crlf merge=union
+*.props      text eol=crlf merge=union
+*.filters    text eol=crlf merge=union
+*.vcxitems   text eol=crlf merge=union
