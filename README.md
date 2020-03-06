@@ -10,3 +10,7 @@ Functional programming treats Functions as first-class citizens, among other thi
 * They map an input to an output. They should not have side effects and are idempotent.
 * Can be passed as inputs to other functions, a function can return a function as its output.
 * Functions can be partially applied to an input making it easier to express complex logic in smaller partially applied functions.
+
+## Using The Code Examples ##
+
+1. Basics: Introducing functional style as simple fun examples. Checkout the branch ```1-basics```.

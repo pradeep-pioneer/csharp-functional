@@ -6,7 +6,10 @@ namespace Cs.Functional.Basics
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // 1. FunctionAsInput
+            Basics.FunctionAsInput();
+            Basics.FunctionAsOutput();
+            Basics.CombiningTheInputOutput();
         }
     }
 }
