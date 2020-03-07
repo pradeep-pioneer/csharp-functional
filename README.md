@@ -15,3 +15,4 @@ Functional programming treats Functions as first-class citizens, among other thi
 
 1. Basics: Introducing functional style as simple fun examples. Checkout the branch ```1-basics```.
 2. Practical Examples: Some examples to arouse interest in functional way of writing code. Checkout the branch ```2-practical-usage```.
+3. Functional Patterns Excercises: Some of the functional programming patterns, like Monads (MayBe monad), Partial Function Applications etc. Checkout the branch ```3-functional-patterns-excercises```
