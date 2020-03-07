@@ -14,3 +14,4 @@ Functional programming treats Functions as first-class citizens, among other thi
 ## Using The Code Examples ##
 
 1. Basics: Introducing functional style as simple fun examples. Checkout the branch ```1-basics```.
+2. Practical Examples: Some examples to arouse interest in functional way of writing code. Checkout the branch ```2-practical-usage```.
